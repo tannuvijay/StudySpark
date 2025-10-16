@@ -19,13 +19,7 @@ This is a full-stack application that helps students study more effectively by l
 
 ## Getting Started
 
-### Prerequisites
 
-- Java 17+
-- Maven 3.8+
-- Node.js 18+
-- Docker & Docker Compose
-- MongoDB instance (can be run via Docker)
 
 ### Running the Application
 
