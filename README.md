@@ -4,11 +4,11 @@ This is a full-stack application that helps students study more effectively by l
 
 ## Tech Stack
 
-- **Frontend:** React, Vite, Axios, React Router
+- **Frontend:** React, Vite
 - **Backend:** Java, Spring Boot, Spring Data MongoDB
 - **Database:** MongoDB
 - **AI/NLP:** Placeholder service for LLM integration (e.g., Gemini API, OpenAI)
-- **Deployment:** Docker
+
 
 ## Features
 
